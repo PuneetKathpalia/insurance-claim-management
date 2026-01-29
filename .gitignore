@@ -1,0 +1,30 @@
+# Flutter/Dart
+.dart_tool/
+.buildlog/
+.packages
+.pub/
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter_settings
+.idea/
+.vscode/
+*.iml
+
+# Build outputs
+build/
+build/web/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Secrets (if any)
+*.key
+.env
+
+# Generated files
+pubspec.lock
